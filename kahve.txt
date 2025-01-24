@@ -5,3 +5,4 @@ krema
 hatasiz kul olmaz
 vs code gecildi
 seconda
+yeni kodlar
