@@ -7,3 +7,4 @@ vs code gecildi
 seconda
 yeni kodlar
 h01 branch ina gecildi
+h02 branch ina gecildi
