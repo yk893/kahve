@@ -4,3 +4,4 @@ seker
 krema
 hatasiz kul olmaz
 vs code gecildi
+seconda
